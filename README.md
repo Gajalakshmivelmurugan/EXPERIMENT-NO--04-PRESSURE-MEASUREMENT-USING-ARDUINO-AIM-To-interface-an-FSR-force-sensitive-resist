@@ -1,4 +1,4 @@
-![introduction](https://github.com/Gajalakshmivelmurugan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144871940/578f9ea3-9c8d-4c1c-b92b-0c485cfa7d33)![introduction](https://github.com/Gajalakshmivelmurugan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144871940/f92d58e5-013b-42ec-9f7f-77ca6b37ba3d)![robo8](https://github.com/Gajalakshmivelmurugan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144871940/409d3001-78a4-47b8-bbe3-f9db4d7434b2)![introduction](https://github.com/Gajalakshmivelmurugan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144871940/65c85c2e-cc33-429f-b04b-927b71ed065e)# EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
+# EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
 
 
 ## AIM: 
@@ -122,7 +122,7 @@ if(m>5)
  
  
 
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
+
 
 
 ### TABLE -02 standard deviation table 
